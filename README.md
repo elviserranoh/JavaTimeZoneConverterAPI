@@ -48,9 +48,9 @@ Otra libreria que se uso es lombok, esta se debe instalar tambien en el IDE, par
 
 Una vez descargado le das doble click y lo ejecutas, y le das en Specify location, alli buscas la ruta del IDE que utilizasy una vez seleccionada, vas y le das en install update.
 
-![alt text](https://projectlombok.org/img/lombok-installer.png)
-
 ```
+
+![alt text](https://projectlombok.org/img/lombok-installer.png)
 
 _Correr el proyecto_
 
@@ -70,5 +70,5 @@ Ahora que ya se tiene instalada las dependencias es hora de ejecutar el proyecto
 
 ## Contribuyendo 🖇️
 
-Me falto realizar las pruebas con jest y enzime.
+Me falto realizar las pruebas unitarias con JUnit
 
