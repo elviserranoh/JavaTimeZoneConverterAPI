@@ -6,6 +6,9 @@ _Este servicio REST permite, mediante un comando POST, obtener la hora en format
 
 [https://elviserranoh.github.io/ReactJSTimeZoneConverter/](https://elviserranoh.github.io/ReactJSTimeZoneConverter/)
 
+*El API se desplego en Heroku
+[https://time-zone-converter-api.herokuapp.com/](https://time-zone-converter-api.herokuapp.com/)
+
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
