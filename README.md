@@ -2,6 +2,10 @@
 
 _Este servicio REST permite, mediante un comando POST, obtener la hora en formato UTC de 2 parámetros enviados al servicio: hora y timezone_
 
+** Enlace para probar la WebApp
+
+[https://elviserranoh.github.io/ReactJSTimeZoneConverter/](https://elviserranoh.github.io/ReactJSTimeZoneConverter/)
+
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
